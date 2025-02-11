@@ -21,6 +21,8 @@ pip install requests
 
 pip install colorama
 
+pip install termcolor
+
 # Compatibility:
 
 Python 2
