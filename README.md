@@ -44,7 +44,7 @@ Windows
 Android via (Termux)
 
 # Usage:
-python Skype2Picture.py skype_username
+python Skype2Picture.py Anna
 
 # Note For Termux
 To view the profile picture within the termux terminal emulator use 'termimage' command if the package is not already exists in your Termux then install it using below commands;
