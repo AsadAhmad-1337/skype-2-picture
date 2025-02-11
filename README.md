@@ -13,7 +13,7 @@
 
 
 
-An OSINT tool to get profile picture of any Skype User using their username 
+An OSINT tool to get profile picture of any Skype User using their username(s) 
 
 # Requirements:
 
@@ -29,7 +29,6 @@ Python 3
 # Usage:
 
 python Skype2Picture.py
-Enter Single or multiple Skype usernames when prompted:
 
 # Example:
 echo,skype_user
