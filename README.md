@@ -5,6 +5,7 @@ An OSINT tool to get profile picture of any Skype User using their username
 # Requirements:
 
 pip install requests
+pip install colorama
 
 # Compatibility:
 
