@@ -15,23 +15,42 @@
 
 An OSINT tool to get profile picture of any Skype User using their username(s) 
 
-# Requirements:
-
-pip install requests
-
-pip install colorama
-
-pip install termcolor
-
-# Compatibility:
-
+# Prerequisites:
 Python 2
 
 Python 3
 
+
+# Installation:
+1. Clone the repository:
+   
+   git clone https://github.com/AsadAhmad-1337/skype-2-picture.git
+
+2. Install the required modules:   
+
+   pip install requests
+
+   pip install colorama
+
+   pip install termcolor
+
+# Platforms:
+
+Linux
+
+Windows
+
+Android via (Termux)
+
 # Usage:
+python Skype2Picture.py skype_username
 
-python Skype2Picture.py
+# Note For Termux
+To view the profile picture within the termux terminal emulator use 'termimage' command if the package is not already exists in your Termux then install it using below commands;
 
-# Example:
-echo,skype_user
+1.  pkg install termimage 
+
+2.  To view the image:
+
+    termimage picturename.jpg
+
