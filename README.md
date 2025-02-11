@@ -7,14 +7,27 @@
                       |____/|_|\_\\__, | .__/ \___|      |_____|      |_|   |_|\___|\__|\__,_|_|  \___| 
                                   |___/|_|                                                  Asad Ahmad 
 
-
-
-![Preview](https://github.com/user-attachments/assets/94ceeff3-8432-401c-8017-727de315aa41)
-
-
-
-
 An OSINT tool to get profile picture of any Skype User using their username(s) 
+
+
+# Demo
+
+
+![Demo](https://github.com/user-attachments/assets/0f875eac-7ccb-44bb-891c-469f0f282fd4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Prerequisites:
 Python 2
