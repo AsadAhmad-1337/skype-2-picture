@@ -23,6 +23,7 @@ pip install colorama
 # Compatibility:
 
 Python 2
+
 Python 3
 
 # Usage:
