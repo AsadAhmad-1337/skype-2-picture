@@ -15,25 +15,8 @@ An OSINT tool to get profile picture of any Skype User using their username(s)
 
 ![Demo](https://github.com/user-attachments/assets/0f875eac-7ccb-44bb-891c-469f0f282fd4)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Prerequisites:
-Python 2
-
-Python 3
-
+Python 2 / Python 3
 
 # Installation:
 1. Clone the repository:
@@ -42,12 +25,9 @@ Python 3
 
 2. Install the required modules:   
 
-   pip install requests
+   pip install requests colorama termcolor
 
-   pip install colorama
-
-   pip install termcolor
-
+  
 # Platforms:
 
 Linux
