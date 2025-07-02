@@ -22,8 +22,9 @@ Python 2 / Python 3
 1. Clone the repository:
    
    git clone https://github.com/AsadAhmad-1337/skype-2-picture.git
+   
 
-2. Install the required modules:   
+3. Install the required modules:   
 
    pip install requests colorama termcolor
 
